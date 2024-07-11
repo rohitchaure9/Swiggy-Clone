@@ -1,0 +1,23 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "Swiggy Clone",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitchaure9/Swiggy-Clone.git"
+  },
+  "keywords": [
+    "React",
+    "JS"
+  ],
+  "author": "Rohit Chaure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitchaure9/Swiggy-Clone/issues"
+  },
+  "homepage": "https://github.com/rohitchaure9/Swiggy-Clone#readme"
+}
